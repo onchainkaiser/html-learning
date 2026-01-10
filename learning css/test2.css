@@ -1,0 +1,25 @@
+.class1,
+.class2,
+.class3 {
+  background-color: yellow;
+
+}
+
+#first{
+  color: blue;
+  font-size: 36px;
+}
+
+.class2{
+  font-size: 24px;
+}
+
+.class4{
+  font-size: 24px;
+}
+
+#second{
+    font-weight: bold;
+background-color:red;
+}
+

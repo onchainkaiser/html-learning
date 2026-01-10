@@ -1,3 +1,14 @@
 div {
   color: white;
+  background-color: red;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.class1,
+.class2,
+.class3 {
+  background-color: yellow;
+
 }
